@@ -34,7 +34,7 @@ public class StackClass{
 		
 		for(int i = 0; i < 6; i++) {
 			
-			st.pop();
+			//st.pop();
 		}
 		
 		st.show();

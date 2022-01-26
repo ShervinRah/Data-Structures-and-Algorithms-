@@ -33,6 +33,7 @@ public class HashMapDS {
 		hash1.put("Angelo", 2);
 		hash1.put("Shima", 3);
 		hash1.put("Yessenia", 4);
+		hash1.put("Betty", 5);
 		
 		System.out.println(hash1);
 		System.out.println("Size of map is " + hash1.size());
